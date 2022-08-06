@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DrawerTitle.tsx Component render correctly 1`] = `
+<View
+  style={
+    Object {
+      "paddingHorizontal": 10,
+      "paddingVertical": 15,
+    }
+  }
+  testID="drawer-title-container"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontSize": 18,
+          "fontWeight": "bold",
+        },
+        Object {
+          "color": "#FFFFFF",
+        },
+      ]
+    }
+    testID="drawer-title"
+  >
+    Espacios de trabajo
+  </Text>
+</View>
+`;
